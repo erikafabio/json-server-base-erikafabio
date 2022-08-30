@@ -6,6 +6,31 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "testedefinitivo@mail.com",
+      "password": "$2a$10$mrVy2LMBH0fWaR0Vw7Lya.4pblomB2n1evZ1WyDQ99G/vGY36qTJC",
+      "name": "Testinho",
+      "age": 88,
+      "cellphone": "41998765432",
+      "id": 4
+    },
+    {
+      "email": "testedefinitivo2@mail.com",
+      "password": "$2a$10$Q.CxS/.Htrk/V0YfcNIfX.EPHUm/T/Xau67JAuQH1RZc0F53un.fm",
+      "name": "Guisso",
+      "age": 88,
+      "cellphone": "41998765432",
+      "id": 5
+    },
+    {
+      "email": "testedefinitivo3@mail.com",
+      "password": "$2a$10$BTtv3vTLSLI0Kklpe6GtTeJiRPGI.M00DB8NCkMqZA5BVM8c7i3Ei",
+      "name": "Fabio",
+      "age": 88,
+      "cellphone": "41998765432",
+      "id": 6
     }
-  ]
+  ],
+  "workouts":[]
 }
