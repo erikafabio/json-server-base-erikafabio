@@ -32,5 +32,9 @@
       "id": 6
     }
   ],
-  "workouts":[]
+  "workouts":[
+    {
+      "foi":"foi"
+    }
+  ]
 }
