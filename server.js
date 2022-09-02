@@ -10,7 +10,7 @@ app.db = router.db;
 
 const rules = auth.rewriter({
   users: 600,
-  allworkouts:440,   
+  workouts:640,   
 });
 
 app.use(cors());
@@ -47,5 +47,7 @@ animacao nas mudanças de rotas com um loading em formato de halter(ver se o fra
 hover e outros efeitos basicos conforme necessidade.
 usar o figma para um esboço do projeto, fluxo de pages e design do mobile first.
 
-**fução tomar agua
+fução tomar agua
+função calcular quantidade de agua por kg
+funcao guardar peso e kilo
 */
