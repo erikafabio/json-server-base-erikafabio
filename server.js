@@ -11,6 +11,7 @@ app.db = router.db;
 const rules = auth.rewriter({
   users: 600,
   workouts:640,   
+  dbworkouts:444
 });
 
 app.use(cors());
@@ -32,6 +33,28 @@ teste user
       "name": "Testinho",
       "age": 88
  }
+
+     {
+      "email": "michael.scott@dm.com",
+      "password": "123456",
+      "name": "Michael Scott",
+      "age": 25,
+			"cellphone": "41998765432",
+			"url": "https://c.tenor.com/bIWKGrYb0FIAAAAC/crazy-dance-funny-dance.gif"
+    }
+
+    {
+	"accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1pY2hhZWwuc2NvdHRAZG0uY29tIiwiaWF0IjoxNjYyMTI2NzQ2LCJleHAiOjE2NjIxMzAzNDYsInN1YiI6IjcifQ.zPkBRtaeMxASnw2XHSc7NZII2e-pGzNUgIq79DCZabE",
+	"user": {
+		"email": "michael.scott@dm.com",
+		"name": "Michael Scott",
+		"age": 25,
+		"cellphone": "41998765432",
+		"url": "https://c.tenor.com/bIWKGrYb0FIAAAAC/crazy-dance-funny-dance.gif",
+		"id": 7
+	}
+}
+
 
  ideia para a api/aplicação toTraning
 

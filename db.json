@@ -16,5 +16,19 @@
       "id": 2
     }
   ],
-  "workouts":[]
+  "workouts":[],
+  "dbworkouts":[
+    {
+      "name": "Polichinelo",
+      "url": "https://c.tenor.com/jPmY-vQLpeMAAAAd/jumping-jacks-home-workouts.gif"
+    },
+    {
+      "name": "Corrida no lugar",
+      "url": "https://c.tenor.com/8rrpHAyXEdMAAAAC/home-workouts-exercise.gif"
+    },
+    {
+      "name": "Abdominal cotovelo no joelho",
+      "url": "https://c.tenor.com/nT4k7Zh9axkAAAAC/exercise-work-out.gif"
+    }
+  ]
 }
