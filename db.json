@@ -1,34 +1,14 @@
 {
   "users": [
     {
-      "email": "kenzinho@mail.com",
-      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
-      "name": "Kenzinho",
-      "age": 38,
-      "id": 1
-    },
-    {
       "email": "testedefinitivo@mail.com",
       "password": "$2a$10$mrVy2LMBH0fWaR0Vw7Lya.4pblomB2n1evZ1WyDQ99G/vGY36qTJC",
-      "name": "Testinho",
+      "name": "Claudin",
       "age": 88,
       "cellphone": "41998765432",
-      "id": 2
+      "url":"https://c.tenor.com/3xofV8qadeoAAAAC/snowball-pets.gif",
+      "id": 1
     }
   ],
-  "workouts":[],
-  "dbworkouts":[
-    {
-      "name": "Polichinelo",
-      "url": "https://c.tenor.com/jPmY-vQLpeMAAAAd/jumping-jacks-home-workouts.gif"
-    },
-    {
-      "name": "Corrida no lugar",
-      "url": "https://c.tenor.com/8rrpHAyXEdMAAAAC/home-workouts-exercise.gif"
-    },
-    {
-      "name": "Abdominal cotovelo no joelho",
-      "url": "https://c.tenor.com/nT4k7Zh9axkAAAAC/exercise-work-out.gif"
-    }
-  ]
+  "workouts":[]
 }
