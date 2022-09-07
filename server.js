@@ -21,7 +21,7 @@ app.listen(port);
 
 console.log("Server is running on port:", port);
 
-/* A senha do Claudin é 123456 */
+/*  A senha do Claudin é 123456 */
 
 /* 
 teste user
